@@ -1,4 +1,4 @@
-<img width=100% src="img/1488805161_2D Kun.gif"/>
+<img width=100% src="1488805161_2D Kun.gif"/>
 
 <div align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=295CF7&center=true&width=435&lines=Dev+Fullstack" alt="Typing SVG" /></a></div>
